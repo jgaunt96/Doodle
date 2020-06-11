@@ -56,7 +56,7 @@
 
                             <input type="hidden" name="type" value="<?php echo $type ?>">
                             <input type="text" name="term" value="<?php echo $term ?>" class="searchBox">
-                            <button class="searchButton"><img src="Assets/images/icons/search.png"></button>
+                            <button class="searchButton"><img src="assets/images/icons/search.png"></button>
 
                         </div>
 
