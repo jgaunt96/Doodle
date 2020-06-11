@@ -17,7 +17,7 @@
         <div class="mainSection">
 
             <div class="logoContainer">
-                <img src="./assets/images/DoodleLogo.png" title="Site Logo" alt="Site Logo">
+                <img src="assets/images/DoodleLogo.png" title="Site Logo" alt="Site Logo">
             </div>
 
             <div class="searchContainer">
