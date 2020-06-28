@@ -50,6 +50,8 @@
 
                 <div class="searchContainer">
 
+                
+
                     <form action="search.php" method="GET">
                     
                         <div class="searchBarContainer">

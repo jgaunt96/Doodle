@@ -22,7 +22,10 @@
 
             <div class="searchContainer">
 
+            
+
                 <form action="search.php" method="GET">
+                      <p>Search BBC, dogs, cats or persona!</p>
                     <input class="searchBox" name="term" type="text">
                     <input class="searchButton" value="Search" type="submit">
                 </form>
