@@ -5,7 +5,7 @@ ob_start();
 try {
 
     // $con = new PDO("mysql:dbname=doodle;host=localhost", "root", "");
-    $con = new PDO("mysql://b5d738cb55e2b2:95108ea6@eu-cdbr-west-03.cleardb.net/heroku_c20b2a94ec09272?reconnect=true");
+    $con = new PDO("mysql://eu-cdbr-west-03.cleardb.net/heroku_c20b2a94ec09272?reconnect=true", "b5d738cb55e2b2:95108ea6", "");
     $con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_WARNING);
 }
 catch(PDOException $e){
@@ -14,4 +14,4 @@ catch(PDOException $e){
 
 ?>
 
-mysql://b5d738cb55e2b2:95108ea6@eu-cdbr-west-03.cleardb.net/heroku_c20b2a94ec09272?reconnect=true
+<!-- mysql://b5d738cb55e2b2:95108ea6@eu-cdbr-west-03.cleardb.net/heroku_c20b2a94ec09272?reconnect=true -->
