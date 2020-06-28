@@ -16,6 +16,10 @@
 
         <div class="mainSection">
 
+            <div class="description">
+                <p>This is a demonstration of a search engine and only has a limited number of searches in its database.</p>
+            </div>
+
             <div class="logoContainer">
                 <img src="assets/images/DoodleLogo.png" title="Site Logo" alt="Site Logo">
             </div>
